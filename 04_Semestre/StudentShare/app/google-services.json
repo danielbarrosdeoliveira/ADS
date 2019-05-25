@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038078179263",
+    "firebase_url": "https://sharestudent-528b4.firebaseio.com",
+    "project_id": "sharestudent-528b4",
+    "storage_bucket": "sharestudent-528b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038078179263:android:69198feaadd7f5bc",
+        "android_client_info": {
+          "package_name": "br.com.danieloliveira.studentshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038078179263-duf475hluois0nqh8rut0hu04loj4knk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.danieloliveira.studentshare",
+            "certificate_hash": "01cdd586e3056bb1297e83ed5e50d1916ebfc09f"
+          }
+        },
+        {
+          "client_id": "1038078179263-nh3j8b0evoah9veqtuv909o57c50h1g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4m_sL9PGHFL7O99E7iudvuSEPAq1e7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038078179263-nh3j8b0evoah9veqtuv909o57c50h1g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

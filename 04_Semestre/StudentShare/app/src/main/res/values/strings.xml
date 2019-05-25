@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Share</string>
+    <string name="loginCriarConta">Não tem conta? Cadastre-se</string>
+    <string name="itemNovoProjeto">Novo Projeto</string>
+    <string name="itemSair">Sair</string>
+    <string name="itemSearch">Pesquisar</string>
+    <string name="itemAdicionarContato">Adicionar Contato</string>
+    <string name="loginEntrar">Entrar</string>
+</resources>
